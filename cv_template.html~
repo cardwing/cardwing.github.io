@@ -133,7 +133,7 @@
               </p>
             </td>
             <td width="15%">
-              <right><img src="me.png" width="180" height="220"></right>
+              <right><img src="/../me.png" width="180" height="220"></right>
             </td>
           </tr>
         </table>
@@ -149,7 +149,7 @@
         <table width="100%" align="center" border="0" cellpadding="10">
           <tr>
             <td width="25%" align="center">
-              <img src="cuhk.png" alt="cuhk" width="80" height="80">
+              <img src="/../cuhk.png" alt="cuhk" width="80" height="80">
             </td>
             <td width="75%" valign="top">
               <p>
@@ -166,7 +166,7 @@
         <table width="100%" align="center" border="0" cellpadding="10">
           <tr>
             <td width="25%" align="center">
-              <img src="nju.png" alt="nanjing" width="80" height="80">
+              <img src="/../nju.png" alt="nanjing" width="80" height="80">
             </td>
             <td width="75%" valign="top">
               <p>
@@ -193,7 +193,7 @@
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
           <tr>
             <td width="25%" align="center">
-              <img src="/projects/FM-Net/intro.png" alt="FM-Net2018" width="160" height="120">
+              <img src="/../projects/FM-Net/intro.png" alt="FM-Net2018" width="160" height="120">
             </td>
             <td width="75%" valign="top">
               <p>
@@ -218,7 +218,7 @@
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
           <tr>
             <td width="25%" align="center">
-              <img src="per_ddpg.png" alt="per_ddpg" width="160" height="80">
+              <img src="/../per_ddpg.png" alt="per_ddpg" width="160" height="80">
             </td>
             <td width="75%" valign="top">
               <p>
@@ -249,7 +249,7 @@
         </table>
         <ul>
           <li>
-            <p>Research Assistant for Information Engineering</p>
+            <p>None</p>
           </li>
         </ul>
 
