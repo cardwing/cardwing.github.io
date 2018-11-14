@@ -242,6 +242,29 @@
 
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
           <tr>
+            <td width="100%" valign="middle">
+              <heading>Projects</heading>
+            </td>
+          </tr>
+        </table>
+        <ul>
+          <li>
+            <p>Lane Detection, Mar. 2018 - Nov. 2018</p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>Steering Control, Sep. 2017 - Feb. 2018</p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>Robotic Grasping, Sep. 2016 - Jul. 2017</p>
+          </li>
+        </ul>
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+          <tr>
             <td>
               <heading>Academic Services</heading>
             </td>
@@ -249,7 +272,7 @@
         </table>
         <ul>
           <li>
-            <p>Research Assistant for Information Engineering</p>
+            <p>Research Assistant for Information Engineering, 2018</p>
           </li>
         </ul>
 
